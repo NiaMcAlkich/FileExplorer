@@ -10,7 +10,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        /*This is to reference the button and be able to use it here*/
+        MaterialButton Storage_btn = findViewById(R.id.Storage)
 
     }
 
+
+    private void 
 }
