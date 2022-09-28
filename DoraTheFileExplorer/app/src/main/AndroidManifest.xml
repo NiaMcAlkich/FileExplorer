@@ -3,7 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.dorathefileexplorer">
 
-    
+    /*This permission allows the app to read external storage on device*/
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    /*This permission allows the app to write to the external storage on device*/
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
 
     <application
