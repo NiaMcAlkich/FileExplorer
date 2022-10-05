@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    /*This is to make the button*/
+    /*It has the height, width, text size, font family,
+    what is does/where it will take the user, and centers the button
+    */
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="400dp"
+        android:layout_height="1000dp"
+        android:fontFamily="sans-serif-black"
+        android:textSize="30dp"
+        android:text="Click here to go to your storage!"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+com.example.dorathefileexplorer.app-recyclerview-1.1.0-0 C:\Users\niamc\.gradle\caches\transforms-3\025ae0e8e070532a925b968a91c2dcd3\transformed\recyclerview-1.1.0\res
+com.example.dorathefileexplorer.app-lifecycle-viewmodel-2.3.1-1 C:\Users\niamc\.gradle\caches\transforms-3\30d73f64a06bad2247d99c2121a73fe8\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.dorathefileexplorer.app-appcompat-1.3.0-2 C:\Users\niamc\.gradle\caches\transforms-3\36b587862ffd7aa0dffc766f47fa0e3e\transformed\appcompat-1.3.0\res
+com.example.dorathefileexplorer.app-viewpager2-1.0.0-3 C:\Users\niamc\.gradle\caches\transforms-3\39d86499b2df5710efb41e798446d941\transformed\viewpager2-1.0.0\res
+com.example.dorathefileexplorer.app-material-1.4.0-4 C:\Users\niamc\.gradle\caches\transforms-3\45828fa8aa0b9348bcbaf27287a12366\transformed\material-1.4.0\res
+com.example.dorathefileexplorer.app-fragment-1.3.4-5 C:\Users\niamc\.gradle\caches\transforms-3\64fc47b8e653b6a7914fdd290e1470e7\transformed\fragment-1.3.4\res
+com.example.dorathefileexplorer.app-savedstate-1.1.0-6 C:\Users\niamc\.gradle\caches\transforms-3\8467916821eec7ed9f67870391f24e64\transformed\savedstate-1.1.0\res
+com.example.dorathefileexplorer.app-core-ktx-1.7.0-7 C:\Users\niamc\.gradle\caches\transforms-3\9aed8fdf4a983149ca56aaaab05b646a\transformed\core-ktx-1.7.0\res
+com.example.dorathefileexplorer.app-coordinatorlayout-1.1.0-8 C:\Users\niamc\.gradle\caches\transforms-3\ad6dc95340b171e84c4ad5205ef31393\transformed\coordinatorlayout-1.1.0\res
+com.example.dorathefileexplorer.app-appcompat-resources-1.3.0-9 C:\Users\niamc\.gradle\caches\transforms-3\b5428e853c2d408dd2934edb55affac9\transformed\appcompat-resources-1.3.0\res
+com.example.dorathefileexplorer.app-cardview-1.0.0-10 C:\Users\niamc\.gradle\caches\transforms-3\b61d68b331896ea26f23fd544338c1eb\transformed\cardview-1.0.0\res
+com.example.dorathefileexplorer.app-core-1.7.0-11 C:\Users\niamc\.gradle\caches\transforms-3\d1226069d146bfdbef2e62a7e382f846\transformed\core-1.7.0\res
+com.example.dorathefileexplorer.app-constraintlayout-2.0.4-12 C:\Users\niamc\.gradle\caches\transforms-3\d7bbf4c4a40fb465623859ff058e84c5\transformed\constraintlayout-2.0.4\res
+com.example.dorathefileexplorer.app-annotation-experimental-1.1.0-13 C:\Users\niamc\.gradle\caches\transforms-3\e273be70d1f54d1dd07f759b7827c3b3\transformed\annotation-experimental-1.1.0\res
+com.example.dorathefileexplorer.app-lifecycle-runtime-2.3.1-14 C:\Users\niamc\.gradle\caches\transforms-3\e3bf41c29559476e190b92f331dade28\transformed\lifecycle-runtime-2.3.1\res
+com.example.dorathefileexplorer.app-transition-1.2.0-15 C:\Users\niamc\.gradle\caches\transforms-3\e89f6667b25ffd1e670d2a33688ccd32\transformed\transition-1.2.0\res
+com.example.dorathefileexplorer.app-pngs-16 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\generated\res\pngs\debug
+com.example.dorathefileexplorer.app-resValues-17 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\generated\res\resValues\debug
+com.example.dorathefileexplorer.app-rs-18 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\generated\res\rs\debug
+com.example.dorathefileexplorer.app-packageDebugResources-19 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.dorathefileexplorer.app-packageDebugResources-20 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.dorathefileexplorer.app-merged_res-21 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\build\intermediates\merged_res\debug
+com.example.dorathefileexplorer.app-debug-22 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\src\debug\res
+com.example.dorathefileexplorer.app-main-23 C:\Users\niamc\Downloads\Desktop\School\Android App Dev\FileExplorer\DoraTheFileExplorer\app\src\main\res
